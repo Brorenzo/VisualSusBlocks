@@ -3,7 +3,7 @@
 This pack updates the Suspicious Sand and Gravel to make them easier to see.
 ## Feature list
 - Viaual: See the blocks with a subtle border around the blocks.
-  - Sand blocks have a gravel border.
+  - Sand blocks have a gravel border
   - Gravel blocks have a sand border
 - AmongSus: See the blocks with an AmongUs character in the blocks.
 ## Download
