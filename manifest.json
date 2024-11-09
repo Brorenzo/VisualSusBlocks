@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Makes Suspicious Sand/Gravel Easier, and more fun, to see by adding subtle borders. Created by Brorenzo8194 | v0.1",
+        "name": "Visible Suspicious Sand & Gravel",
+        "uuid": "159744aa-739c-4af1-8903-4520d2aa90fa",
+        "version": [0, 1, 0],
+        "min_engine_version": [ 1, 18, 10 ]
+    },
+    "modules": [
+        {
+            "description": "Makes Suspicious Sand/Gravel Easier, and more fun, to see by adding subtle borders. Created by Brorenzo8194 | v0.1",
+            "type": "resources",
+            "uuid": "06514d58-1738-40b4-a531-88685e011d3a",
+            "version": [0, 1, 0]
+        }
+    ],
+	"subpacks": [
+		{
+			"folder_name": "Visual",
+			"name": "Adds a §eVisual§r border around Suspicious blocks.",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "AmongSus",
+			"name": "Adds an §3AmongUs§r character inside the Suspicious blocks.",
+			"memory_tier": 1
+		}
+	],
+	"settings": [
+		{
+			"type": "label",
+			"text": "§lYou can configure this pack as follows:§r\n\n• §l§gVisual§r: Shows Suspicious Blocks with a visual border around them.\n• §l§3AmongSus§r: Shows Suspicious Blocks with AmongUs characters in them.\n\n§7Any updates to the pack can be located on my Github: §bhttps://github.com/Brorenzo"
+		}
+	],
+	"metadata": {
+	"authors": ["Brorenzo"],
+	"url":"https://github.com/Brorenzo"
+	}
+}
